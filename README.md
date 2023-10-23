@@ -10,8 +10,9 @@ We're excited to learn more about your coding skills and get to know you better!
     - You can use any recording software that you feel comfortable with. 
     - If you don't have any screen recording software already, then we suggest using [ScreenRec](https://screenrec.com/).
 4. During the screen recording, explain your thought process, the changes you're making, and why you're making them. We're interested in your problem-solving skills and coding practices.
-5. After completing the refactoring, push your changes to a separate branch on your fork of the repository.
-6. Spend at least 30 minutes on this exercise. 
+5. Try and commit your code to your repo as you go along, so that we can see a clean git history.
+6. Spend at least 30 minutes on this exercise.
+7. When finished, create a public GitHub repository and upload your code.
 
 ## Specification
 Hi and welcome to team Gilded Rose. 

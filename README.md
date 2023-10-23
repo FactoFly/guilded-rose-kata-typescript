@@ -7,8 +7,8 @@ We're excited to learn more about your coding skills and get to know you better!
 1. Clone this repository
 2. Refactor the existing codebase to improve its maintainability and readability, while following the specifications below.
 3. Record your screen while you work on the refactoring. Ensure that your face is visible in the recording.
-  - You can use any recording software that you feel comfortable with. 
-  - If you don't have any screen recording software already, then we suggest using [ScreenRec](https://screenrec.com/).
+    - You can use any recording software that you feel comfortable with. 
+    - If you don't have any screen recording software already, then we suggest using [ScreenRec](https://screenrec.com/).
 4. During the screen recording, explain your thought process, the changes you're making, and why you're making them. We're interested in your problem-solving skills and coding practices.
 5. After completing the refactoring, push your changes to a separate branch on your fork of the repository.
 6. Spend at least 30 minutes on this exercise. 
